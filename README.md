@@ -1,8 +1,12 @@
 # Pewlett-Hackard-Analysis
 ## Overview of the Challenge
 
+<img src = "EmployeeDB.png" >
+
 ## Results
 
-<img src "mentor_list.png">
+<img src = "retiring_counts.png">
+
+<img src = "mentor_list.png" >
 
 ## Summary
